@@ -1,5 +1,9 @@
-<link rel="stylesheet" href="sp17/theme/css/main.css" />
-<link rel="icon" type="image/x-icon" href="/favicon.ico">
+---
+layout: page
+title: Home
+tagline: Data Engineering
+nav_exclude: true
+---
 
 Data 101: Data Engineering
 ====
