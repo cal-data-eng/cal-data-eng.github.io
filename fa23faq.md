@@ -46,7 +46,7 @@ The official prerequisites are
 - CS61B
 - DATA C100, CS189, INFO 251, or DATA 144.
 
-These prerequisites may not be taken concurrently.
+These prerequisites may *not* be taken concurrently with Data 101.
 
 ---
 ## Will the official prerequisites be enforced?
@@ -61,7 +61,6 @@ The official prerequisites _are being strictly enforced by CDSS_.  Decisions on 
 We encourage you to not fall behind: you should complete all work when it is assigned.
 
 To be added to the relevant resources (Ed, bCourses, etc.), please email [{{page.course.email}}](mailto:{{page.course.email}}) with the subject line `Interim access to class resources`, providing your name, email and student ID.
--->
 
 ---
 
@@ -70,6 +69,7 @@ To be added to the relevant resources (Ed, bCourses, etc.), please email [{{page
 Historically we've been able to accomodate students who wish to enroll, so we do not expect any issues allowing waitlisted students once the usual early-semester shuffle takes place.  We will update this page if conditions change.
 
 We recommend that you sign up for the class [EdStem link TBD]({{page.course.edstem}}) and follow the class assuming you'll have a slot soon. **See above for how to get added to any other required resources.**
+-->
 
 <!--
 ---
