@@ -61,11 +61,15 @@ The official prerequisites _are being strictly enforced by CDSS_.  Decisions on 
 We encourage you to not fall behind: you should complete all work when it is assigned.
 
 To be added to the relevant resources (Ed, bCourses, etc.), please email [{{page.course.email}}](mailto:{{page.course.email}}) with the subject line `Interim access to class resources`, providing your name, email and student ID.
+-->
 
 ---
 
 ## I am waitlisted, what should I do? What are my chances of getting into this class?
 
+As of April 20, Data 101 Fall 2023 is almost full ([course catalog](https://classes.berkeley.edu/content/2023-fall-data-101-001-lec-001): 238/250 seats with 75 waitlisted). Juniors don't start enrolling until next week, so odds are that it will fill pretty soon and there will be a significant waitlist by the end of Phase 1. With these conditions, it's likely that anyone who is not declared in Data Science will have very little chance of getting in; even for those who are declared it's going to be a luck of the draw for juniors. Please reach out to [ds-advising@berkeley.edu](mailto:ds-advising@berkeley.edu) for any additional concerns.
+
+<!--
 Historically we've been able to accomodate students who wish to enroll, so we do not expect any issues allowing waitlisted students once the usual early-semester shuffle takes place.  We will update this page if conditions change.
 
 We recommend that you sign up for the class [EdStem link TBD]({{page.course.edstem}}) and follow the class assuming you'll have a slot soon. **See above for how to get added to any other required resources.**
