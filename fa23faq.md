@@ -28,6 +28,14 @@ course:
 {:toc}
 
 ---
+## When is class? Do you allow time conflicts?
+
+Class meets **Tuesday and Thursday, 12:30pm - 2pm.** No time conflicts, though class will be recorded. 
+
+## When are finals?
+The final exam will take place in-person during the regularly scheduled final exam slot on **Friday 12/15, 8 - 11am**. There will be no accommodations for final exam conflicts.
+For more information, see the [Final Exam Calendar](https://registrar.berkeley.edu/scheduling/academic-scheduling/academic-scheduling-final-exam-guide-and-schedules/).
+
 ## Where is the course website?
 
 Not yet live.
