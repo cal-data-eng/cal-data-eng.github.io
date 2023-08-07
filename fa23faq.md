@@ -12,7 +12,8 @@ course:
     repo: https://github.com/cal-data-eng/fa23
     comms_ta: TBD
     head_ta: TBD
-    email: yanlisa@berkeley.edu
+    email: data101@berkeley.edu
+    room: Stanley 105
     final_exam_slot: Friday, December 15, 8:00am - 11:00am
     classes_page: https://data.berkeley.edu/fall-2023-classes-enrollment-info
 
@@ -28,11 +29,11 @@ course:
 {:toc}
 
 ---
-## When is class? Do you allow time conflicts?
+## When/where is class? Do you allow time conflicts?
 
-Class meets **Tuesday and Thursday, 12:30pm - 2pm.** No time conflicts, though class will be recorded. 
+Class meets in {{page.course.room}}, **Tuesday and Thursday, 12:30pm - 2pm.** No time conflicts, though class will be recorded. 
 
-## When are finals?
+## When is the final exam?
 The final exam will take place in-person during the regularly scheduled final exam slot on **Friday 12/15, 8 - 11am**. There will be no accommodations for final exam conflicts.
 For more information, see the [Final Exam Calendar](https://registrar.berkeley.edu/scheduling/academic-scheduling/academic-scheduling-final-exam-guide-and-schedules/).
 
@@ -56,10 +57,12 @@ The official prerequisites are
 
 These prerequisites may *not* be taken concurrently with Data 101.
 
----
 ## Will the official prerequisites be enforced?
 
 The official prerequisites _are being strictly enforced by CDSS_.  Decisions on any requests for exceptions to this policy are being made by the CDSS advisors. To request an exception see the [Data Science Fall 2023 Courses page]({{page.course.classes_page}}).  _Do NOT email instructors about this_; we do not make these decisions.
+
+## I have taken/am taking CS 186. Can I still enroll in Data 101?
+Yes. There is no duplication of credit restrictions between the two courses.
 
 
 <!--
@@ -93,11 +96,12 @@ By campus policy, we must first process the waitlist in its entirety before we c
 Note that once all CE requests are processed (in the first few weeks of classes), we will remove all temporarily added students who do not end up with a permanent enrollment in the course.
 
 **See above for how to get added to any other required resources.**
+-->
 
 ---
 ## I am a campus student and would like to audit the course, what can I do?
 
-Most class materials are available online to all campus students, and you can access the lecture videos, slides, etc. without limit, as well as use the online [Data 100 DataHub (our JupyterHub instance for this class)](https://data100.datahub.berkeley.edu).
+Most class materials are available online to all campus students, and you can access the lecture videos, slides, etc. without limit, as well as use the online [Data 101 DataHub (our JupyterHub instance for this class)](https://data101.datahub.berkeley.edu).
 
 Note however that the class EdStem, our only other class resource, is reserved for enrolled students and faculty auditors, as homework details and solutions are discussed in that environment.
 
@@ -105,6 +109,9 @@ Note however that the class EdStem, our only other class resource, is reserved f
 ## I have another enrollment issue - can the instructors assist me, make an exception for my case or provide me with an "enrollment code"?
 
 No. The instructors do not handle any enrollment issues. If you need assistance with enrollment or think your circumstances warrant exceptional consideration, you must discuss those with an enrollment advisor. They are the only ones authorized to handle such situations and enroll you. See first question above for more links about enrollment resources.
+
+<!--
+
 
 ---
 
@@ -141,14 +148,17 @@ The basic policy is the following:
 
 * FINAL EXAM CONFLICTS: This class will NOT accommodate final exam conflicts.
 
+-->
+
 ---
 
 ## I have a conflict for the final exam, what can I do?
 
 As per the [Campus Registrar](https://registrar.berkeley.edu/scheduling/academic-scheduling/academic-scheduling-final-exam-guide-and-schedules/), the final exam will be held {{page.course.final_exam_slot}}. The exam will be held **in person**, not online. 
 
-The course does not allow for time conflicts. Additionally, no accommodations will be made for travel.
+The course does not allow for time conflicts. Additionally, no accommodations will be made for non-university travel.
 
+<!--
 ---
 ## When will the full schedule of labs and discussions be announced?
 
