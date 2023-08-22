@@ -5,7 +5,7 @@ tagline:
 nav_exclude: true
 
 course:
-    edstem: TBD
+    edstem: https://edstem.org/us/courses/43068/discussion/
     edstem_join: na
     website: https://fa23.data101.org
     logistics_ta: TBD
@@ -77,8 +77,11 @@ To be added to the relevant resources (Ed, bCourses, etc.), please email [{{page
 ---
 
 ## I am waitlisted, what should I do? What are my chances of getting into this class?
+We experienced very high student interest in Data 101 this Fall and unfortunately, we will not be able to accommodate all interested students in the class. The class and the waitlist are now closed to any further enrollment for Fall 2023. If you are not enrolled in the class, you will not be able to take it this semester.
 
-Enrollment in Data 101 is reserved for Data Science majors only, and is expected to fill in Phase 1. While any student who meets the prerequisites is allowed to add to the waitlist, we do not anticipate having room in the class to accommodate non-majors from the waitlist in Fall 2023. If you are on the waitlist, you should be prepared to take an alternate class instead.
+
+<!--Enrollment in Data 101 is reserved for Data Science majors only, and is expected to fill in Phase 1. While any student who meets the prerequisites is allowed to add to the waitlist, we do not anticipate having room in the class to accommodate non-majors from the waitlist in Fall 2023. If you are on the waitlist, you should be prepared to take an alternate class instead.
+-->
 
 <!--
 Historically we've been able to accomodate students who wish to enroll, so we do not expect any issues allowing waitlisted students once the usual early-semester shuffle takes place.  We will update this page if conditions change.
