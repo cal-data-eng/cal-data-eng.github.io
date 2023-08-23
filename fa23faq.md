@@ -39,14 +39,37 @@ For more information, see the [Final Exam Calendar](https://registrar.berkeley.e
 
 ## Where is the course website?
 
-Not yet live.
-
-<!-- [Here]({{page.course.website}}). -->
+Here: [{{page.course.website}}]({{page.course.website}})
 
 ---
 ## I need an enrollment code/enrollment is too limited/I'm on the waitlist/etc.
 
-The instructors are not able to provide permission codes or any new information about enrollment in Data 101 at this time. Please refer to the [Data Science Fall 2023 Courses page]({{page.course.classes_page}}) and to the [Data 001 Ed](https://edstem.org/us/join/gk5MZQ), which include all information currently available about enrolling in Fall 2023 classes. If you are not able to find an answer to your question there, please email [ds-advising@berkeley.edu](mailto:ds-advising@berkeley.edu).
+The instructors are not able to provide permission codes or any new information about enrollment in Data 101 at this time. Please refer to the [Data Science Fall 2023 Courses page]({{page.course.classes_page}}) and to the [Data 001 Ed](https://edstem.org/us/join/gk5MZQ), which include all information currently available about enrolling in Fall 2023 classes. If you are not able to find an answer to your question there, please email [ds-enrollments@berkeley.edu](mailto:ds-enrollments@berkeley.edu).
+
+## I am waitlisted, what should I do? What are my chances of getting into this class?
+[updated Aug 21] We experienced very high student interest in Data 101 this Fall and unfortunately, we will not be able to accommodate all interested students in the class. The class and the waitlist are now closed to any further enrollment for Fall 2023. If you are not enrolled in the class, you will not be able to take it this semester.
+
+
+<!--Enrollment in Data 101 is reserved for Data Science majors only, and is expected to fill in Phase 1. While any student who meets the prerequisites is allowed to add to the waitlist, we do not anticipate having room in the class to accommodate non-majors from the waitlist in Fall 2023. If you are on the waitlist, you should be prepared to take an alternate class instead.
+-->
+
+<!--
+Historically we've been able to accomodate students who wish to enroll, so we do not expect any issues allowing waitlisted students once the usual early-semester shuffle takes place.  We will update this page if conditions change.
+
+We recommend that you sign up for the class [EdStem link TBD]({{page.course.edstem}}) and follow the class assuming you'll have a slot soon. **See above for how to get added to any other required resources.**
+-->
+
+## I have a Concurrent Enrollment Request that hasn't been approved yet, what should I do? What are my chances of getting into this class?
+
+[updated Aug 22] Data 101 Enrollment is closed. Please see [this document](https://docs.google.com/document/d/1mfO38IL-nb9YJEdMwLBFFOlZ8JzHS9-rllMgUDG1vAU/edit){: target="\_blank"} to learn more about concurrent enrollment in DATA classes in Fall 2023.
+
+<!--
+By campus policy, we must first process the waitlist in its entirety before we can admit you. We will do all we can to ensure all waitlisted students are promptly admitted, so that you can also enroll in the course, though we can not provide 100% guarantee that will be the case. But we strongly suggest you start working on the course, following lectures and turning in assignments, from the start. This will prevent you from falling behind and will give you the best chance of success in the class. 
+
+Note that once all CE requests are processed (in the first few weeks of classes), we will remove all temporarily added students who do not end up with a permanent enrollment in the course.
+
+**See above for how to get added to any other required resources.**
+-->
 
 ---
 ## What are the official prerequisites for this course?
@@ -72,33 +95,6 @@ Yes. There is no duplication of credit restrictions between the two courses.
 We encourage you to not fall behind: you should complete all work when it is assigned.
 
 To be added to the relevant resources (Ed, bCourses, etc.), please email [{{page.course.email}}](mailto:{{page.course.email}}) with the subject line `Interim access to class resources`, providing your name, email and student ID.
--->
-
----
-
-## I am waitlisted, what should I do? What are my chances of getting into this class?
-We experienced very high student interest in Data 101 this Fall and unfortunately, we will not be able to accommodate all interested students in the class. The class and the waitlist are now closed to any further enrollment for Fall 2023. If you are not enrolled in the class, you will not be able to take it this semester.
-
-
-<!--Enrollment in Data 101 is reserved for Data Science majors only, and is expected to fill in Phase 1. While any student who meets the prerequisites is allowed to add to the waitlist, we do not anticipate having room in the class to accommodate non-majors from the waitlist in Fall 2023. If you are on the waitlist, you should be prepared to take an alternate class instead.
--->
-
-<!--
-Historically we've been able to accomodate students who wish to enroll, so we do not expect any issues allowing waitlisted students once the usual early-semester shuffle takes place.  We will update this page if conditions change.
-
-We recommend that you sign up for the class [EdStem link TBD]({{page.course.edstem}}) and follow the class assuming you'll have a slot soon. **See above for how to get added to any other required resources.**
--->
-
-<!--
----
-
-## I have a Concurrent Enrollment Request that hasn't been approved yet, what should I do? What are my chances of getting into this class?
-
-By campus policy, we must first process the waitlist in its entirety before we can admit you. We will do all we can to ensure all waitlisted students are promptly admitted, so that you can also enroll in the course, though we can not provide 100% guarantee that will be the case. But we strongly suggest you start working on the course, following lectures and turning in assignments, from the start. This will prevent you from falling behind and will give you the best chance of success in the class. 
-
-Note that once all CE requests are processed (in the first few weeks of classes), we will remove all temporarily added students who do not end up with a permanent enrollment in the course.
-
-**See above for how to get added to any other required resources.**
 -->
 
 ---
