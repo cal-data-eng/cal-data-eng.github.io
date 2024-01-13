@@ -35,19 +35,24 @@ course:
 --
 ## When is our first class?
 
-Our first class will be on January 22, 2024. **There will be no class on January 17, as I will be at a conference.**
+Our first class will be on January 22, 2024. **There will be no class on January 17, as Aditya will be at a conference.**
 
 
 ## When/where is class? Can I attend in person? Do I need to attend in person/live? Do you allow conflicts?
 
 Class meets in {{page.course.room}}, **{{page.course.time}}.** 
-The class can only physically accommodate 50 students, and we will follow a first-come-first-served policy for in-class attendance. Beyond 50 students, we will ask you to instead attend class on Zoom or watch the recording. 
+The class can only physically accommodate 50 students, and we will follow a first-come-first-served policy for in-class attendance. Beyond 50 students, we will ask you to instead watch a recording. 
 
-Class attendance is optional. 
+We plan to have the class simultaneously broadcast on Zoom, but more information on the feasibility of this is based on equipment in class, so will be disclosed on the first day of class. 
+
+Based on prior experience, we expect that in-class attendance will drop enough after the first few lectures so you should be able to comfortably attend class if you choose to.
+
+Lecture attendance is optional. 
+
+Discussion is optional and happens at {{page.course.discussion_time}}.
 
 We do allow lecture and discussion time conflicts, but **no exam time conflicts**.
 
-Discussion is optional and happens at {{page.course.discussion_time}}.
 
 ## When is the final exam?
 The final exam will take place in-person during the regularly scheduled final exam slot on **{{page.course.final_exam_slot}}**. There will be **no accommodations for final exam conflicts**.
@@ -63,7 +68,7 @@ The course website will be live soon. Until then, please feel free to look at ol
 
 The instructors are not able to provide permission codes or any new information about enrollment in Data 101 or Info 258 at this time. 
 
-For those undergraduates intending to take Data 101, please refer to the [Data Science Courses page]({{page.course.classes_page}}) and to the [Data 001 Ed]({{page.course.edstem}}), which include all information currently available about enrolling in {{page.course.current_semester}} classes. If you are not able to find an answer to your question there, please email [ds-enrollments@berkeley.edu](mailto:ds-enrollments@berkeley.edu).  We are experiencing very high student interest in Data 101, and can only accommodate a very small number of undergraduates (likely well less than 50, closer to 25). If you aren't able to get in, please plan on enrolling in a subsequent semester where the class size will be in the 100s.
+For those undergraduates intending to take Data 101, please refer to the [Data Science Courses page]({{page.course.classes_page}}) and to the [Data 001 Ed](https://edstem.org/us/join/gk5MZQ), which include all information currently available about enrolling in {{page.course.current_semester}} classes. If you are not able to find an answer to your question there, please email [ds-enrollments@berkeley.edu](mailto:ds-enrollments@berkeley.edu).  We are experiencing very high student interest in Data 101, and can only accommodate a very small number of undergraduates (likely well less than 50, closer to 25). If you aren't able to get in, please plan on enrolling in a subsequent semester where the class size will be in the 100s.
 
 For those graduate students waitlisted and intending to take Info 258, you should have received an email to ask about your prerequisites and background. We will only admit a very restricted number of additional graduate students outside of the School of Information into this class. 
 
@@ -82,6 +87,7 @@ We recommend that you sign up for the class [EdStem link TBD]({{page.course.edst
 ## I have a Concurrent Enrollment Request that hasn't been approved yet, what should I do? What are my chances of getting into this class?
 
 Given heavy demand from Berkeley students, both graduate and undergrad, we aren't able to enroll any concurrent enrollment students. 
+
 <!--
 By campus policy, we must first process the waitlist in its entirety before we can admit you. We will do all we can to ensure all waitlisted students are promptly admitted, so that you can also enroll in the course, though we can not provide 100% guarantee that will be the case. But we strongly suggest you start working on the course, following lectures and turning in assignments, from the start. This will prevent you from falling behind and will give you the best chance of success in the class. 
 
@@ -89,8 +95,6 @@ Note that once all CE requests are processed (in the first few weeks of classes)
 
 **See above for how to get added to any other required resources.**
 -->
-
----
 
 ## I am an undergrad, can I take INFO 258?
 
@@ -121,6 +125,14 @@ The official prerequisites _are being strictly enforced by CDSS_.  Decisions on 
 Yes. There is no duplication of credit restrictions between the two courses.
 
 
+## I have another enrollment issue - can the instructors assist me, make an exception for my case or provide me with an "enrollment code"?
+
+For undergraduates: No. The instructors do not handle any enrollment issues. If you need assistance with enrollment or think your circumstances warrant exceptional consideration, you must discuss those with an enrollment advisor. They are the only ones authorized to handle such situations and enroll you. See first question above for more links about enrollment resources.
+
+For graduate students: See the email about your background and prerequisites, and please respond to it by this weekend. We will make our decisions by Monday, 15th of January about which students will be enrolled. 
+
+
+
 <!--
 ---
 ## I can't enroll yet for reason X (waitlist, concurrent enrollment, etc) but expect/hope to, what should I do?
@@ -130,23 +142,18 @@ We encourage you to not fall behind: you should complete all work when it is ass
 To be added to the relevant resources (Ed, bCourses, etc.), please email [{{page.course.email}}](mailto:{{page.course.email}}) with the subject line `Interim access to class resources`, providing your name, email and student ID.
 -->
 
----
 ## I am a campus student and would like to audit the course, what can I do?
 
 Most class materials are available online to all campus students, and you can access the lecture videos, slides, etc. without limit, as well as use the online [Data 101 DataHub (our JupyterHub instance for this class)](https://data101.datahub.berkeley.edu).
 
 Note however that the class EdStem, our only other class resource, is reserved for enrolled students, as homework details and solutions are discussed in that environment.
 
----
-## I have another enrollment issue - can the instructors assist me, make an exception for my case or provide me with an "enrollment code"?
+## What is the alternate exam policy?
 
-For undergraduates: No. The instructors do not handle any enrollment issues. If you need assistance with enrollment or think your circumstances warrant exceptional consideration, you must discuss those with an enrollment advisor. They are the only ones authorized to handle such situations and enroll you. See first question above for more links about enrollment resources.
+There will be no alternate final exam time beyond the standard time assigned by scheduling.
 
-For graduate students: See the email about your background and prerequisites, and please respond to it by this weekend. We will make our decisions by Monday, 15th of January about which students will be enrolled. 
 
 <!--
-
-
 ---
 
 ## What aspects of the course will be offered online?
@@ -163,16 +170,6 @@ We will offer:
 Exams will be in-person and subject to standard proctoring procedures, with appropriate accommodations for DSP students
 
 ---
-## What is the alternate exam policy?
-
-There will be no out-of-class midterm and/or alternate final exam time beyond the standard time assigned by scheduling.
-
----
-## What is the midterm schedule for this class?
-
-The exact midterm exam dates will be announced on the first date of class.
-
----
 
 ## What is the conflict policy for the course?
 
@@ -184,7 +181,6 @@ The basic policy is the following:
 
 -->
 
----
 
 ## I have a conflict for the final exam, what can I do?
 
@@ -246,12 +242,10 @@ We only allow posts made on EdStem and you must make it yourself, we do not make
 3. is seeking to recruit students to help with the public good in a non-financial way (no solicitations for donations!), and in a context explicitly connected to their work in the course.
 -->
 
----
 ## I would like to apply for a (u)GSI position for this course. What should I do?
 
 All applications for Academic Student Employee positions are managed centrally; you can find all the details [here](https://data.berkeley.edu/academics/undergraduate-programs/courses/joining-data-course-staff). Please _do not_ email the instructors individually with your resume/etc, as they are not in a position to hire you.
 
----
 ## Who do I contact if I have further questions? How do I email the instruction team?
 
 Please e-mail [{{page.course.email}}](mailto:{{page.course.email}}) and the instructor will get back to you.
