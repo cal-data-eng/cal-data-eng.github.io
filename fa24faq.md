@@ -5,21 +5,24 @@ tagline:
 nav_exclude: true
 
 course:
-    edstem: https://edstem.org/us/courses/43068/discussion/
+    current_semester: Fall 2024
+    edstem: TBD
     edstem_join: na
-    website: https://fa23.data101.org
+    website: TBD
     logistics_ta: TBD
-    repo: https://github.com/cal-data-eng/fa23
+    repo: TBD
     comms_ta: TBD
     head_ta: TBD
     email: data101@berkeley.edu
-    room: Stanley 105
-    final_exam_slot: Friday, December 15, 8:00am - 11:00am
-    classes_page: https://data.berkeley.edu/fall-2023-classes-enrollment-info
+    room: Lewis Hall 100
+    time: Tuesday and Thursday 9:30 - 11am
+    discussion_time: Thursdays, Fridays
+    final_exam_slot: Tuesday December 17, 3 - 6pm
+    classes_page: https://cdss.berkeley.edu/classes-enrollment-info
 
 ---
 
-# Frequently Asked Questions for Fall 2023 Data 101
+# Frequently Asked Questions for {{page.course.current_semester}} Data 101
 {: .no_toc }
 
 ## Table of Contents
@@ -29,26 +32,41 @@ course:
 {:toc}
 
 ---
-## When/where is class? Do you allow time conflicts?
 
-Class meets in {{page.course.room}}, **Tuesday and Thursday, 12:30pm - 2pm.** No time conflicts, though class will be recorded. 
 
-## When is the final exam?
-The final exam will take place in-person during the regularly scheduled final exam slot on **Friday 12/15, 8 - 11am**. There will be no accommodations for final exam conflicts.
+## When/where is class? Can I attend in person? Do I need to attend in person/live? Do you allow time conflicts?
+
+Class meets in {{page.course.room}}, **{{page.course.time}}.** The course will be synchronous hybrid. Class will also be recorded. 
+
+In the past students have found that the best way to engage with the material is synchronously---either in-person or on Zoom. Futher, we expect that in-class attendance will drop enough after the first few lectures so you should be able to comfortably attend class if you choose to.
+
+You will be expected to keep up with the lecture material.
+
+No time conflicts are permitted.
+
+## When are discussion sections?
+
+Weekly discussion sections, while optional, are strongly encouraged as the structures of questions most closely mimics our exam questions. Discussions are currently planned for Thursday and Friday.
+
+
+## When is the final exam?  Do you allow time conflicts?
+
+The final exam will take place in-person during the regularly scheduled final exam slot on **{{page.course.final_exam_slot}}**. The exam will be held **in person**, not online. 
 For more information, see the [Final Exam Calendar](https://registrar.berkeley.edu/scheduling/academic-scheduling/academic-scheduling-final-exam-guide-and-schedules/).
+
+The course **does not allow for exam time conflicts**. Additionally, no accommodations will be made for non-university travel.
 
 ## Where is the course website?
 
-Here: [{{page.course.website}}]({{page.course.website}})
+<!--Here: [{{page.course.website}}]({{page.course.website}}). -->
+The course website will be live soon. Until then, please feel free to look at old offerings listed at [this URL](https://data101.org).
 
 ---
-## I need an enrollment code/enrollment is too limited/I'm on the waitlist/etc.
+## I need an enrollment code/enrollment is too limited/I'm on the waitlist, what are my chances/etc. 
 
-The instructors are not able to provide permission codes or any new information about enrollment in Data 101 at this time. Please refer to the [Data Science Fall 2023 Courses page]({{page.course.classes_page}}) and to the [Data 001 Ed](https://edstem.org/us/join/gk5MZQ), which include all information currently available about enrolling in Fall 2023 classes. If you are not able to find an answer to your question there, please email [ds-enrollments@berkeley.edu](mailto:ds-enrollments@berkeley.edu).
+For those undergraduates intending to take Data 101, please refer to the [Data Science Courses page]({{page.course.classes_page}}) and to the [Data 001 Ed](https://edstem.org/us/join/gk5MZQ), which include all information currently available about enrolling in {{page.course.current_semester}} classes. If you are not able to find an answer to your question there, please email [ds-enrollments@berkeley.edu](mailto:ds-enrollments@berkeley.edu).
 
-## I am waitlisted, what should I do? What are my chances of getting into this class?
-[updated Aug 21] We experienced very high student interest in Data 101 this Fall and unfortunately, we will not be able to accommodate all interested students in the class. The class and the waitlist are now closed to any further enrollment for Fall 2023. If you are not enrolled in the class, you will not be able to take it this semester.
-
+[updated 4/23] We anticipate that the course will grow in size,and that most waitlisted students will be able to get into the course.
 
 <!--Enrollment in Data 101 is reserved for Data Science majors only, and is expected to fill in Phase 1. While any student who meets the prerequisites is allowed to add to the waitlist, we do not anticipate having room in the class to accommodate non-majors from the waitlist in Fall 2023. If you are on the waitlist, you should be prepared to take an alternate class instead.
 -->
@@ -59,9 +77,13 @@ Historically we've been able to accomodate students who wish to enroll, so we do
 We recommend that you sign up for the class [EdStem link TBD]({{page.course.edstem}}) and follow the class assuming you'll have a slot soon. **See above for how to get added to any other required resources.**
 -->
 
+## I'm not in Data Science and I want to take this course!
+
+[updated 4/23] As of this time, we can't provide guarantees on non-Data Science student enrollment. We will prioritize Data Science students, at least through Phase 1.
+
 ## I have a Concurrent Enrollment Request that hasn't been approved yet, what should I do? What are my chances of getting into this class?
 
-[updated Aug 22] Data 101 Enrollment is closed. Please see [this document](https://docs.google.com/document/d/1mfO38IL-nb9YJEdMwLBFFOlZ8JzHS9-rllMgUDG1vAU/edit){: target="\_blank"} to learn more about concurrent enrollment in DATA classes in Fall 2023.
+Given heavy demand from Berkeley students, both graduate and undergrad, we aren't able to enroll any concurrent enrollment students. 
 
 <!--
 By campus policy, we must first process the waitlist in its entirety before we can admit you. We will do all we can to ensure all waitlisted students are promptly admitted, so that you can also enroll in the course, though we can not provide 100% guarantee that will be the case. But we strongly suggest you start working on the course, following lectures and turning in assignments, from the start. This will prevent you from falling behind and will give you the best chance of success in the class. 
@@ -71,21 +93,44 @@ Note that once all CE requests are processed (in the first few weeks of classes)
 **See above for how to get added to any other required resources.**
 -->
 
+## I am an undergrad, can I take INFO 258?
+
+No, you can only take DATA 101.
+
+
+## I am a grad student, can I take DATA 101?
+
+No, you can only take INFO 258.
+
+## I have taken/am taking CS 186. Can I still enroll in Data 101?
+Yes. There is no duplication of credit restrictions between the two courses.
+
 ---
+
 ## What are the official prerequisites for this course?
 
-The official prerequisites are
+The official prerequisites for undergraduates are
 - CS61B
 - DATA C100, CS189, INFO 251, or DATA 144.
 
 These prerequisites may *not* be taken concurrently with Data 101.
 
-## Will the official prerequisites be enforced?
+<!--For graduate students, equivalent classes in programming and data structures and data science possibly taken at other schools.
+-->
 
-The official prerequisites _are being strictly enforced by CDSS_.  Decisions on any requests for exceptions to this policy are being made by the CDSS advisors. To request an exception see the [Data Science Fall 2023 Courses page]({{page.course.classes_page}}).  _Do NOT email instructors about this_; we do not make these decisions.
 
-## I have taken/am taking CS 186. Can I still enroll in Data 101?
-Yes. There is no duplication of credit restrictions between the two courses.
+## Will the official prerequisites be enforced for undergraduates?
+
+The official prerequisites _are being strictly enforced by CDSS_.  Decisions on any requests for exceptions to this policy are being made by the CDSS advisors. To request an exception see the [Data Science Courses page]({{page.course.classes_page}}).  _Do NOT email instructors about this_; we do not make these decisions.
+
+
+## I have another enrollment issue - can the instructors assist me, make an exception for my case or provide me with an "enrollment code"?
+
+For undergraduates: No. The instructors do not handle any enrollment issues. If you need assistance with enrollment or think your circumstances warrant exceptional consideration, you must discuss those with an enrollment advisor. They are the only ones authorized to handle such situations and enroll you. See first question above for more links about enrollment resources.
+
+<!--For graduate students: See the email about your background and prerequisites, and please respond to it by this weekend. We will make our decisions by Monday, 15th of January about which students will be enrolled. 
+-->
+
 
 
 <!--
@@ -98,22 +143,15 @@ To be added to the relevant resources (Ed, bCourses, etc.), please email [{{page
 -->
 
 ---
+
 ## I am a campus student and would like to audit the course, what can I do?
 
 Most class materials are available online to all campus students, and you can access the lecture videos, slides, etc. without limit, as well as use the online [Data 101 DataHub (our JupyterHub instance for this class)](https://data101.datahub.berkeley.edu).
 
-If you would like access to the lecture recordings on bCourses,  please contact our staff email {{page.course.email}} to get added as an Observer.
+Note however that the class EdStem, our only other class resource, is reserved for enrolled students, as homework details and solutions are discussed in that environment.
 
-Note however that the class EdStem and Gradescope are reserved for enrolled students and faculty auditors, as homework details and solutions are discussed in that environment.
-
----
-## I have another enrollment issue - can the instructors assist me, make an exception for my case or provide me with an "enrollment code"?
-
-No. The instructors do not handle any enrollment issues. If you need assistance with enrollment or think your circumstances warrant exceptional consideration, you must discuss those with an enrollment advisor. They are the only ones authorized to handle such situations and enroll you. See first question above for more links about enrollment resources.
 
 <!--
-
-
 ---
 
 ## What aspects of the course will be offered online?
@@ -130,16 +168,6 @@ We will offer:
 Exams will be in-person and subject to standard proctoring procedures, with appropriate accommodations for DSP students
 
 ---
-## What is the alternate exam policy?
-
-There will be no out-of-class midterm and/or alternate final exam time beyond the standard time assigned by scheduling.
-
----
-## What is the midterm schedule for this class?
-
-The exact midterm exam dates will be announced on the first date of class.
-
----
 
 ## What is the conflict policy for the course?
 
@@ -151,13 +179,12 @@ The basic policy is the following:
 
 -->
 
----
 
-## I have a conflict for the final exam, what can I do?
+## What is the alternate exam policy?
 
-As per the [Campus Registrar](https://registrar.berkeley.edu/scheduling/academic-scheduling/academic-scheduling-final-exam-guide-and-schedules/), the final exam will be held {{page.course.final_exam_slot}}. The exam will be held **in person**, not online. 
+We are planning for an out-of-class midterm, which will offer one alternate time for course-related conflicts. Details TBD.
 
-The course does not allow for time conflicts. Additionally, no accommodations will be made for non-university travel.
+There will be no alternate final exam time beyond the standard time assigned by scheduling.
 
 <!--
 ---
@@ -213,17 +240,15 @@ We only allow posts made on EdStem and you must make it yourself, we do not make
 3. is seeking to recruit students to help with the public good in a non-financial way (no solicitations for donations!), and in a context explicitly connected to their work in the course.
 -->
 
----
 ## I would like to apply for a (u)GSI position for this course. What should I do?
 
 All applications for Academic Student Employee positions are managed centrally; you can find all the details [here](https://data.berkeley.edu/academics/undergraduate-programs/courses/joining-data-course-staff). Please _do not_ email the instructors individually with your resume/etc, as they are not in a position to hire you.
 
----
 ## Who do I contact if I have further questions? How do I email the instruction team?
 
-Please e-mail [{{page.course.email}}](mailto:{{page.course.email}}) and the instructor (Lisa Yan) will get back to you.
+Please e-mail [{{page.course.email}}](mailto:{{page.course.email}}) and the instructor will get back to you.
 
 ---
-We’re excited to have you in the class this Fall!
+We’re excited to have you in the class soon!
 
-Lisa and the Fall 2023 instructional team
+The {{page.course.current_semester}} instructional team

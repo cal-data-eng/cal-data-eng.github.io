@@ -19,7 +19,7 @@ Each offering site includes links to assignments, slides, and readings.
 You are welcome to use any of the materials you find.
 
 - [Spring 2024](https://data101.org/sp24)
-- [Spring 2024 FAQ](https://www.data101.org/sp24faq/)
+- [Spring 2024 FAQ](/sp24faq)
 - [Fall 2023](fa23)
 - [Fall 2022](fa22)
 - [Spring 2021](sp21)
