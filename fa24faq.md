@@ -42,7 +42,7 @@ In the past students have found that the best way to engage with the material is
 
 You will be expected to keep up with the lecture material.
 
-No time conflicts are permitted.
+No lecture time conflicts are permitted.
 
 ## When are discussion sections?
 
@@ -54,7 +54,16 @@ Weekly discussion sections, while optional, are strongly encouraged as the struc
 The final exam will take place in-person during the regularly scheduled final exam slot on **{{page.course.final_exam_slot}}**. The exam will be held **in person**, not online. 
 For more information, see the [Final Exam Calendar](https://registrar.berkeley.edu/scheduling/academic-scheduling/academic-scheduling-final-exam-guide-and-schedules/).
 
-The course **does not allow for exam time conflicts**. Additionally, no accommodations will be made for non-university travel.
+No final exam time conflicts are permitted.
+
+## What is the conflict policy for the course?
+
+The basic policy is the following:
+
+* ENROLLMENT TIME CONFLICTS: This class will NOT allow time conflicts.
+
+* FINAL EXAM CONFLICTS: This class will NOT accommodate final exam conflicts.
+Additionally, no accommodations will be made for non-university travel.
 
 ## Where is the course website?
 
@@ -62,9 +71,14 @@ The course **does not allow for exam time conflicts**. Additionally, no accommod
 The course website will be live soon. Until then, please feel free to look at old offerings listed at [the Data 101 course hub](https://data101.org).
 
 ---
-## I need an enrollment code/enrollment is too limited/I'm on the waitlist, what are my chances/etc. 
 
-For those undergraduates intending to take Data 101, please refer to the [Data Science Courses Enrollments page]({{page.course.classes_page}}) and to the [Data 001 Ed](https://edstem.org/us/courses/22867/discussion/) ([join link](https://edstem.org/us/join/gk5MZQ)), which together list all information currently available about enrolling in {{page.course.current_semester}} classes. If you are not able to find an answer to your question there, please email [ds-enrollments@berkeley.edu](mailto:ds-enrollments@berkeley.edu).
+## I cannot enroll in the course nor get on the waitlist; can I get a permission code to enroll in this course?
+
+## I am on the waitlist, what are my chances of getting in the course?
+
+## Will course capacity expand?
+
+For those undergraduates intending to take Data 101, please refer to the [Data Science Courses Enrollments page]({{page.course.classes_page}}) and to the [Data 001 Ed](https://edstem.org/us/courses/22867/discussion/) ([join link](https://edstem.org/us/join/gk5MZQ)), which together list all information currently available about enrolling in {{page.course.current_semester}} classes. If you are not able to find an answer to your question there, please email [ds-advising@berkeley.edu](mailto:ds-advising@berkeley.edu).
 
 [updated 4/23] We anticipate that the course will grow in size, and that most waitlisted students will be able to get into the course.
 
@@ -77,7 +91,7 @@ Historically we've been able to accomodate students who wish to enroll, so we do
 We recommend that you sign up for the class [EdStem link TBD]({{page.course.edstem}}) and follow the class assuming you'll have a slot soon. **See above for how to get added to any other required resources.**
 -->
 
-## I'm currently not a Data Science major and I want to take this course!
+## I am not currently declared a Data Science major; can I enroll in this course?
 
 [updated 4/23] As of this time, we can't provide guarantees on non-Data Science student enrollment. We will prioritize Data Science students, at least through Phase 1.
 
@@ -121,7 +135,7 @@ These prerequisites may *not* be taken concurrently with Data 101.
 
 ## Will the official prerequisites be enforced for undergraduates?
 
-The official prerequisites _are being strictly enforced by CDSS_.  Decisions on any requests for exceptions to this policy are being made by the CDSS advisors. To request an exception see the [Data Science Courses Enrollments page]({{page.course.classes_page}}).  <b><i>Do NOT email instructors about this</i></b>; we do not make these decisions.
+The official prerequisites _are being strictly enforced by Data Science_.  Decisions on any requests for exceptions to this policy are being made by Data Science advisors. To request an exception see the [Data Science Courses Enrollments page]({{page.course.classes_page}}).  <b><i>Do NOT email instructors about this</i></b>; we do not make these decisions.
 
 
 ## I have another enrollment issue - can the instructors assist me, make an exception for my case or provide me with an "enrollment code"?
@@ -162,22 +176,14 @@ We will offer:
 - Discussions will be mostly in-person, but we will offer a small number of online discussion sections.
 - There will be no direct lab sessions: labs will be due on Tuesdays and a video walk-through of the lab content will be released _after_ the lab is due for you to watch on your own. There will be online help available for labs through office hours and dedicated Ed channels.
 
+
+-->
 ---
 ## What is the proctoring/accommodation policy for exams?
 
-Exams will be in-person and subject to standard proctoring procedures, with appropriate accommodations for DSP students
+Exams will be in-person and subject to standard proctoring procedures, with appropriate accommodations for DSP students.
 
 ---
-
-## What is the conflict policy for the course?
-
-The basic policy is the following:
-
-* ENROLLMENT TIME CONFLICTS: This class will NOT allow time conflicts.
-
-* FINAL EXAM CONFLICTS: This class will NOT accommodate final exam conflicts.
-
--->
 
 
 ## What is the alternate exam policy?
