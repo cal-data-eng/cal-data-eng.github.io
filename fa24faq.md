@@ -59,14 +59,14 @@ The course **does not allow for exam time conflicts**. Additionally, no accommod
 ## Where is the course website?
 
 <!--Here: [{{page.course.website}}]({{page.course.website}}). -->
-The course website will be live soon. Until then, please feel free to look at old offerings listed at [this URL](https://data101.org).
+The course website will be live soon. Until then, please feel free to look at old offerings listed at [the Data 101 course hub](https://data101.org).
 
 ---
 ## I need an enrollment code/enrollment is too limited/I'm on the waitlist, what are my chances/etc. 
 
-For those undergraduates intending to take Data 101, please refer to the [Data Science Courses page]({{page.course.classes_page}}) and to the [Data 001 Ed](https://edstem.org/us/join/gk5MZQ), which include all information currently available about enrolling in {{page.course.current_semester}} classes. If you are not able to find an answer to your question there, please email [ds-enrollments@berkeley.edu](mailto:ds-enrollments@berkeley.edu).
+For those undergraduates intending to take Data 101, please refer to the [Data Science Courses Enrollments page]({{page.course.classes_page}}) and to the [Data 001 Ed](https://edstem.org/us/courses/22867/discussion/) ([join link](https://edstem.org/us/join/gk5MZQ)), which together list all information currently available about enrolling in {{page.course.current_semester}} classes. If you are not able to find an answer to your question there, please email [ds-enrollments@berkeley.edu](mailto:ds-enrollments@berkeley.edu).
 
-[updated 4/23] We anticipate that the course will grow in size,and that most waitlisted students will be able to get into the course.
+[updated 4/23] We anticipate that the course will grow in size, and that most waitlisted students will be able to get into the course.
 
 <!--Enrollment in Data 101 is reserved for Data Science majors only, and is expected to fill in Phase 1. While any student who meets the prerequisites is allowed to add to the waitlist, we do not anticipate having room in the class to accommodate non-majors from the waitlist in Fall 2023. If you are on the waitlist, you should be prepared to take an alternate class instead.
 -->
@@ -121,7 +121,7 @@ These prerequisites may *not* be taken concurrently with Data 101.
 
 ## Will the official prerequisites be enforced for undergraduates?
 
-The official prerequisites _are being strictly enforced by CDSS_.  Decisions on any requests for exceptions to this policy are being made by the CDSS advisors. To request an exception see the [Data Science Courses page]({{page.course.classes_page}}).  <b><i>Do NOT email instructors about this</i></b>; we do not make these decisions.
+The official prerequisites _are being strictly enforced by CDSS_.  Decisions on any requests for exceptions to this policy are being made by the CDSS advisors. To request an exception see the [Data Science Courses Enrollments page]({{page.course.classes_page}}).  <b><i>Do NOT email instructors about this</i></b>; we do not make these decisions.
 
 
 ## I have another enrollment issue - can the instructors assist me, make an exception for my case or provide me with an "enrollment code"?
@@ -146,7 +146,7 @@ To be added to the relevant resources (Ed, bCourses, etc.), please email [{{page
 
 ## I am a campus student and would like to audit the course, what can I do?
 
-Most class materials are available online to all campus students, and you can access the lecture videos, slides, etc. without limit, as well as use the online [Data 101 DataHub (our JupyterHub instance for this class)](https://data101.datahub.berkeley.edu).
+Most class materials are available online to all campus students, and you can access the lecture videos, slides, etc. without limit, as well as use the online [Data 101 DataHub](https://data101.datahub.berkeley.edu), our JupyterHub instance for this class.
 
 Note however that the class EdStem, our only other class resource, is reserved for enrolled students, as homework details and solutions are discussed in that environment.
 
@@ -242,7 +242,7 @@ We only allow posts made on EdStem and you must make it yourself, we do not make
 
 ## I would like to apply for a (u)GSI position for this course. What should I do?
 
-All applications for Academic Student Employee positions are managed centrally; you can find all the details [here](https://data.berkeley.edu/academics/undergraduate-programs/courses/joining-data-course-staff). Please _do not_ email the instructors individually with your resume/etc, as they are not in a position to hire you.
+All applications for Academic Student Employee positions are managed centrally; you can find all the details here: [Joining Data Course Staff](https://data.berkeley.edu/academics/undergraduate-programs/courses/joining-data-course-staff). Please _do not_ email the instructors individually with your resume/etc, as they are not in a position to hire you.
 
 ## Who do I contact if I have further questions? How do I email the instruction team?
 
