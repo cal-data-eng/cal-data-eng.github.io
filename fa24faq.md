@@ -83,7 +83,7 @@ We recommend that you sign up for the class [EdStem link TBD]({{page.course.edst
 
 ## I have a Concurrent Enrollment Request that hasn't been approved yet, what should I do? What are my chances of getting into this class?
 
-Given heavy demand from Berkeley students, both graduate and undergrad, we aren't able to enroll any concurrent enrollment students. 
+[updated 4/23] Given heavy demand from UC Berkeley students, we are currently unable to enroll any concurrent enrollment students. 
 
 <!--
 By campus policy, we must first process the waitlist in its entirety before we can admit you. We will do all we can to ensure all waitlisted students are promptly admitted, so that you can also enroll in the course, though we can not provide 100% guarantee that will be the case. But we strongly suggest you start working on the course, following lectures and turning in assignments, from the start. This will prevent you from falling behind and will give you the best chance of success in the class. 
