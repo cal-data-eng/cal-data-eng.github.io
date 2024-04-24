@@ -77,7 +77,7 @@ Historically we've been able to accomodate students who wish to enroll, so we do
 We recommend that you sign up for the class [EdStem link TBD]({{page.course.edstem}}) and follow the class assuming you'll have a slot soon. **See above for how to get added to any other required resources.**
 -->
 
-## I'm not in Data Science and I want to take this course!
+## I'm currently not a Data Science major and I want to take this course!
 
 [updated 4/23] As of this time, we can't provide guarantees on non-Data Science student enrollment. We will prioritize Data Science students, at least through Phase 1.
 
@@ -121,7 +121,7 @@ These prerequisites may *not* be taken concurrently with Data 101.
 
 ## Will the official prerequisites be enforced for undergraduates?
 
-The official prerequisites _are being strictly enforced by CDSS_.  Decisions on any requests for exceptions to this policy are being made by the CDSS advisors. To request an exception see the [Data Science Courses page]({{page.course.classes_page}}).  _Do NOT email instructors about this_; we do not make these decisions.
+The official prerequisites _are being strictly enforced by CDSS_.  Decisions on any requests for exceptions to this policy are being made by the CDSS advisors. To request an exception see the [Data Science Courses page]({{page.course.classes_page}}).  <b><i>Do NOT email instructors about this</i></b>; we do not make these decisions.
 
 
 ## I have another enrollment issue - can the instructors assist me, make an exception for my case or provide me with an "enrollment code"?
