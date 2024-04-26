@@ -90,10 +90,11 @@ Historically we've been able to accomodate students who wish to enroll, so we do
 
 We recommend that you sign up for the class [EdStem link TBD]({{page.course.edstem}}) and follow the class assuming you'll have a slot soon. **See above for how to get added to any other required resources.**
 -->
+## I will be able to officially declare the data science major soon; can I enroll in this course?
 
 ## I am not currently declared a Data Science major; can I enroll in this course?
 
-[updated 4/23] As of this time, we can't provide guarantees on non-Data Science student enrollment. We will prioritize Data Science students, at least through Phase 1.
+[updated 4/23] As of this time, we can't provide guarantees on non-Data Science student enrollment. We will prioritize declared Data Science students, at least through Phase 1.
 
 ## I have a Concurrent Enrollment Request that hasn't been approved yet, what should I do? What are my chances of getting into this class?
 
