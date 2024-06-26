@@ -32,7 +32,9 @@ course:
 {:toc}
 
 ---
+## [6/25/2024] Help!! I was dropped from the class!
 
+For administrative reasons, we need to temporarily cancel, and then re-schedule Data 101 in Fall 2024. Your seat or your waitlist position in Data 101 will be saved, and you will be automatically re-enrolled to the same position once the class is available for enrollment again. The only change is that this class will now be cross-listed with the EECS department as CompSci C187 - the instructors, days, times, location and everything else will remain the same. You will receive email updates from [ds-advising@berkeley.edu](mailto:ds-advising@berkeley.edu), and may disregard any automated notices you receive from the registration system regarding Data 101 in the next few weeks. You do not need to take any action. Please contact  [ds-advising@berkeley.edu](mailto:ds-advising@berkeley.edu) with any questions or concerns.
 
 ## When/where is class? Can I attend in person? Do I need to attend in person/live? Do you allow time conflicts?
 
