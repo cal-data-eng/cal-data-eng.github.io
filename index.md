@@ -21,6 +21,6 @@ You are welcome to use any of the materials you find.
 - [Fall 2024 FAQ](/fa24faq)
 - [Spring 2024](https://data101.org/sp24)
 - [Spring 2024 FAQ](/sp24faq)
-- [Fall 2023](fa23)
+- [Fall 2023](fa23/) <!-- fix dns issue temporarily -->
 - [Fall 2022](fa22)
 - [Spring 2021](sp21)
