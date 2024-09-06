@@ -84,7 +84,7 @@ For those undergraduates intending to take Data 101, please refer to the [Data S
 
 [updated 4/23] We anticipate that the course will grow in size, and that most waitlisted students will be able to get into the course.
 
-[updated 8/28] The course capacity will not expand, but we imagine there may be some shifting throughout the first few weeks to accommodate a portion of the waitlist.
+[updated 8/28] The course capacity will not expand, but we imagine that as students drop the course and adjust their schedules, there may be some shifting throughout the first few weeks such that others get off the waitlist. The waitlist is automatically managed.
 
 <!--Enrollment in Data 101 is reserved for Data Science majors only, and is expected to fill in Phase 1. While any student who meets the prerequisites is allowed to add to the waitlist, we do not anticipate having room in the class to accommodate non-majors from the waitlist in Fall 2023. If you are on the waitlist, you should be prepared to take an alternate class instead.
 -->
