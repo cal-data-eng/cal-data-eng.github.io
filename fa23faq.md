@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Fall 2023 Data 101 FAQ
 tagline:
 nav_exclude: true
 
@@ -29,9 +29,10 @@ course:
 {:toc}
 
 ---
+
 ## When/where is class? Do you allow time conflicts?
 
-Class meets in {{page.course.room}}, **Tuesday and Thursday, 12:30pm - 2pm.** No time conflicts, though class will be recorded. 
+Class meets in {{page.course.room}}, **Tuesday and Thursday, 12:30pm - 2pm.** No time conflicts, though class will be recorded.
 
 ## When is the final exam?
 The final exam will take place in-person during the regularly scheduled final exam slot on **Friday 12/15, 8 - 11am**. There will be no accommodations for final exam conflicts.
@@ -64,7 +65,7 @@ We recommend that you sign up for the class [EdStem link TBD]({{page.course.edst
 [updated Aug 22] Data 101 Enrollment is closed. Please see [this document](https://docs.google.com/document/d/1mfO38IL-nb9YJEdMwLBFFOlZ8JzHS9-rllMgUDG1vAU/edit){: target="\_blank"} to learn more about concurrent enrollment in DATA classes in Fall 2023.
 
 <!--
-By campus policy, we must first process the waitlist in its entirety before we can admit you. We will do all we can to ensure all waitlisted students are promptly admitted, so that you can also enroll in the course, though we can not provide 100% guarantee that will be the case. But we strongly suggest you start working on the course, following lectures and turning in assignments, from the start. This will prevent you from falling behind and will give you the best chance of success in the class. 
+By campus policy, we must first process the waitlist in its entirety before we can admit you. We will do all we can to ensure all waitlisted students are promptly admitted, so that you can also enroll in the course, though we can not provide 100% guarantee that will be the case. But we strongly suggest you start working on the course, following lectures and turning in assignments, from the start. This will prevent you from falling behind and will give you the best chance of success in the class.
 
 Note that once all CE requests are processed (in the first few weeks of classes), we will remove all temporarily added students who do not end up with a permanent enrollment in the course.
 
@@ -155,7 +156,7 @@ The basic policy is the following:
 
 ## I have a conflict for the final exam, what can I do?
 
-As per the [Campus Registrar](https://registrar.berkeley.edu/scheduling/academic-scheduling/academic-scheduling-final-exam-guide-and-schedules/), the final exam will be held {{page.course.final_exam_slot}}. The exam will be held **in person**, not online. 
+As per the [Campus Registrar](https://registrar.berkeley.edu/scheduling/academic-scheduling/academic-scheduling-final-exam-guide-and-schedules/), the final exam will be held {{page.course.final_exam_slot}}. The exam will be held **in person**, not online.
 
 The course does not allow for time conflicts. Additionally, no accommodations will be made for non-university travel.
 
@@ -172,12 +173,12 @@ The course website for Fall 2023 will be released soon.
 
 Check out the [course homepage]({{page.course.website}}) and the [resources page]({{page.course.website}}/resources). Don’t hesitate to make suggestions by filing an issue on the [class repository]({{page.course.repo}}) (or even better, propose a new pull request with your additions!).
 
---- 
+---
 ## Where is the Class EdStem?
 
 [Here TBD]({{page.course.edstem}}). If that link doesn't work for you, please email [{{page.course.email}}](mailto:{{page.course.email}}) to be added. You will only be added if you are an enrolled student, or pending enrollment in the first few days. Note that we will purge the Ed roster once early-semester enrollment settles down.
 
-If your question isn't answered in this FAQ, please try EdStem next before emailing the instructors. 
+If your question isn't answered in this FAQ, please try EdStem next before emailing the instructors.
 
 ---
 ## I can't find any information on bCourses, why?
@@ -185,7 +186,7 @@ If your question isn't answered in this FAQ, please try EdStem next before email
 We will only be using bCourses for synchronizing access to Gradescope. As long as you are enrolled in the class right now, you don't need anything.
 All class materials are available online through the website; communications happen on EdStem; and computational work is done on the DataHub.
 
---- 
+---
 ## I have added the course later in the semester. Can I catch up? Can I be excused for all late work?
 
 The answer to the first question is impossible to give in general, as it depends both on how late you add the course, and what your own background is. But as a general rule, the course moves quite quickly and covers new ground from the start. We estimate most students will probably struggle to catch up effectively if they join any later than the first few days of the semester, unless they have a particularly strong background already in the initial topics (probability, SQL, Python and Pandas).
