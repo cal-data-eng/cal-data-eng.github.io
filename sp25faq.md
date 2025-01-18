@@ -21,7 +21,7 @@ course:
 
 ---
 
-# Frequently Asked Questions for {{page.course.current_semester}} Data 101
+# Frequently Asked Questions for {{page.course.current_semester}} Data 101/Info 258
 {: .no_toc }
 
 ## Table of Contents
