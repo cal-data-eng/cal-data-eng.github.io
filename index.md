@@ -5,16 +5,13 @@ tagline: Data Engineering
 nav_exclude: true
 ---
 
-# Data 101/INFO 258: Data Engineering
+# Data 101 (Info 258): Data Engineering
 
 The UC Berkeley Data Engineering course covers the principles and practices of managing data at scale, with a focus on use cases in data analysis and machine learning. This encompasses the entire life cycle of data management and science, ranging from data preparation to exploration, visualization and analysis, to machine learning and collaboration, with a focus on ensuring reliable, scalable operationalization.
 
 The course is offered in partnership with the [UC Berkeley Division of Computing, Data Science, and Society](http://data.berkeley.edu).
 
-## [Fall 2024](/fa24/)
-
-> [NOTICE]
-> [Course Notes](https://data101.org/notes/) are currently being updated during the Fall 2024 semester.
+## [Spring 2025 FAQ](/sp25faq)
 
 ## Past Offerings
 Each offering site includes links to assignments, slides, and readings.
