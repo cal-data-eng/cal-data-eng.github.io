@@ -11,12 +11,14 @@ The UC Berkeley Data Engineering course covers the principles and practices of m
 
 The course is offered in partnership with the [UC Berkeley Division of Computing, Data Science, and Society](http://data.berkeley.edu).
 
-## [Spring 2025 FAQ](/sp25faq)
+## [Spring 2025](/sp25)
 
 ## Past Offerings
 Each offering site includes links to assignments, slides, and readings.
 You are welcome to use any of the materials you find.
 
+- [Spring 2025](/sp25)
+- [Spring 2025 FAQ](/sp25faq)
 - [Fall 2024](/fa24)
 - [Fall 2024 FAQ](/fa24faq)
 - [Spring 2024](/sp24)
