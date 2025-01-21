@@ -144,7 +144,7 @@ To be added to the relevant resources (Ed, bCourses, etc.), please email [{{page
 
 ## I am a campus student and would like to audit the course, what can I do?
 
-Most class materials are available online to all campus students, and you can access the lecture videos, slides, etc. without limit, as well as use the online [Data 101 DataHub](https://data101.datahub.berkeley.edu), our JupyterHub instance for this class.
+We do not permit auditing of this class because our course staff are already stretched thin, and we're way over capacity. However, most class materials are available online to all campus students, and you can access the lecture videos, slides, etc. without limit, as well as use the online [Data 101 DataHub](https://data101.datahub.berkeley.edu), our JupyterHub instance for this class.
 
 Note however that the class EdStem, our only other class resource, is reserved for enrolled students, as homework details and solutions are discussed in that environment.
 
@@ -172,7 +172,10 @@ Exams will be in-person and subject to standard proctoring procedures, with appr
 
 ## What is the alternate exam policy?
 
-There will not be any alternate midterm or final exams. 
+There will not be any alternate midterm or final exams.
+
+---
+
 <!--
 ---
 ## When will the full schedule of labs and discussions be announced?
