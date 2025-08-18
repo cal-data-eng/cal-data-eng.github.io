@@ -20,6 +20,7 @@ The course is offered in partnership with the [UC Berkeley Division of Computing
 Each offering site includes links to assignments, slides, and readings.
 You are welcome to use any of the materials you find.
 
+- [Fall 2025](/fa25)
 - [Spring 2025](/sp25), [FAQ](faqs/sp25)
 - [Fall 2024](/fa24), [FAQ](faqs/fa24)
 - [Spring 2024](/sp24), [FAQ](faqs/sp24)
